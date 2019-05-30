@@ -1,0 +1,4 @@
+#Sat May 25 12:57:40 EET 2019
+base.0=D\:\\flutter\\magic-8-ball-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
